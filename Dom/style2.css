@@ -1,0 +1,22 @@
+/* .box
+{
+    height: 100px;
+    width: 100px;
+    background-color: red ;
+    color: white;
+    border: 1 px solid black;
+     
+} */
+ .para
+ {
+    color : black;
+    background-color: yellow;
+    font-size: 24px;
+    
+ }
+.para2
+{
+    color: white;
+    background-color:red ;
+    font-size: 30px;
+}
